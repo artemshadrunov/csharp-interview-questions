@@ -147,17 +147,23 @@ static void Main(string[] args)
 
 # Делегаты, ивенты
 Какие существуют типы делегатов?
+
 В чем различие между ивентами и делегатами?
 
 # Интерфейсы
 Зачем нужны интерфейсы?
+
 abstract class vs interface
+
 Implicit реализации методов интерфейса
 
 # Коллекции
 Есть ли у тебя алгоритм выбора коллекций? Опиши.
+
 Dictionary<> vs Hashset<>? Область применения.
+
 Array<> vs List<>? Область применения
+
 IEnumerable<> vs ICollection<> vs IReadonlyCollection<>? Область применения.
 
 ```cs
@@ -197,7 +203,9 @@ Console.WriteLine(object.ReferenceEquals(helloWorld, helloWorld3));
 
 # Async/Await vs multithreading
 В чем различие между асинхронностью и многопоточностью в c#?
+
 Примеры использования.
+
 Что быстрее, асинхронность или многопоточность?(Вопрос на понимание того, что ничего не быстрее)
 
 # LINQ
@@ -260,6 +268,9 @@ static IEnumerable<int> CreateMagicNumbers(int count)
 
 # Память в c#
 Модель памяти в c#.
+
 Как работает сборщик мусора?
+
 LOH
+
 Всегда ли reference type хранятся в стке?
