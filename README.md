@@ -274,3 +274,17 @@ static IEnumerable<int> CreateMagicNumbers(int count)
 LOH
 
 Всегда ли reference type хранятся в стке?
+
+# Принципы организации кода
+SOLID, DRY, KISS
+
+# Паттерны
+Какие приходилось реализовывать?
+
+# Системы контроля версий
+Merge vs rebase vs cherrypick
+
+# Тестирование
+Юнит vs интеграционные тесты
+AAA принцип
+Идеальный code coverege
