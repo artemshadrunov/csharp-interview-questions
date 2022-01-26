@@ -275,6 +275,14 @@ LOH
 
 Всегда ли reference type хранятся в стке?
 
+# WEB API и ASP.NET
+
+MVC
+REST
+Жизненный цикл запроса
+Жизненный цикл сервиса
+Swagger
+
 # Принципы организации кода
 SOLID, DRY, KISS
 
